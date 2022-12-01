@@ -9,6 +9,7 @@ Applications are grouped by City departments.
 - [Clerks](#clerks)
 - [Information Technology](#information-technology)
 - [Legal](#legal)
+- [Related Links](#related-links)
 
 ## Clerks
 
@@ -28,6 +29,10 @@ As well, the Clerk's Department is responsible for the management of corporate r
 The Legal Department provides a broad range of legal, technical and reference services to all branches of the City's operations.
 
 - [PDF Flattener](https://github.com/cityssm/pdfFlattener) - Secures PDF documents by making floating redactions and form entries permanent.
+
+## Related Links
+
+- [Open Resource Exchange](https://code.open.canada.ca/en/index.html) - Open source solutions developed and/or used by Canadian public administrations.
 
 ## Contributing
 
