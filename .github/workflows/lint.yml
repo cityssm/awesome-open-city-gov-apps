@@ -1,0 +1,14 @@
+name: Awesome Lint
+
+on: [workflow_dispatch, push, pull_request]
+
+permissions: read-all
+
+jobs:
+  AwesomeLint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
