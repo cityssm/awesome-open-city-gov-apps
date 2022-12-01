@@ -29,6 +29,6 @@ The Legal Department provides a broad range of legal, technical and reference se
 
 - [PDF Flattener](https://github.com/cityssm/pdfFlattener) - Secures PDF documents by making floating redactions and form entries permanent.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
