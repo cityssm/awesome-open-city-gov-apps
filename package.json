@@ -1,0 +1,24 @@
+{
+  "name": "awesome-open-city-gov-apps",
+  "version": "1.0.0",
+  "description": "A curated list of awesome open source applications for city officials to manage the operations of their municipalities.",
+  "scripts": {
+    "lint": "npx awesome-lint https://github.com/cityssm/awesome-open-city-gov-apps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityssm/awesome-open-city-gov-apps.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "open-government",
+    "open-cities"
+  ],
+  "author": "The Corporation of the City of Sault Ste. Marie",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/cityssm/awesome-open-city-gov-apps/issues"
+  },
+  "homepage": "https://github.com/cityssm/awesome-open-city-gov-apps#readme"
+}
