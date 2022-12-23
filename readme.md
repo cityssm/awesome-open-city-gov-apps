@@ -32,6 +32,7 @@ The Legal Department provides a broad range of legal, technical and reference se
 
 ## Related Links
 
+- [OGP Toolbox](https://ogptoolbox.org) - A collaborative platform that gathers digital tools developed and used throughout the world by organizations to improve democracy and promote transparency, participation and collaboration.
 - [Open Resource Exchange](https://code.open.canada.ca/en/index.html) - Open source solutions developed and/or used by Canadian public administrations.
 
 ## Contributing
