@@ -23,6 +23,7 @@ As well, the Clerk's Department is responsible for the management of corporate r
 ## Information Technology
 
 - [Linux Mint](https://linuxmint.com/) - User friendly Linux for quick kiosk setups.
+- [KeePass Password Safe](https://keepass.info/) - A free, open source, light-weight and easy-to-use password manager.
 
 ## Legal
 
