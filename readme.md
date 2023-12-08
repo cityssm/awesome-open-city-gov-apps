@@ -9,6 +9,7 @@ Applications are grouped by City departments.
 - [Clerks](#clerks)
 - [Information Technology](#information-technology)
 - [Legal](#legal)
+- [Planning](#planning)
 - [Related Links](#related-links)
 
 ## Clerks
@@ -30,6 +31,10 @@ As well, the Clerk's Department is responsible for the management of corporate r
 The Legal Department provides a broad range of legal, technical and reference services to all branches of the City's operations.
 
 - [PDF Flattener](https://github.com/cityssm/pdfFlattener) - Secures PDF documents by making floating redactions and form entries permanent.
+
+## Planning
+
+- [Streetmix](https://streetmix.net) - A collaborative process for communities and city planners to improve public spaces.
 
 ## Related Links
 
